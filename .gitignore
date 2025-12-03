@@ -10,3 +10,4 @@ compare_methods.py
 count_nanoparticles.py
 *.pt/
 *.tif/
+checkpoint/
