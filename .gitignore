@@ -9,3 +9,4 @@ count_particles_adaptive.py
 compare_methods.py
 count_nanoparticles.py
 training_data_cropped/
+checkpoints/
