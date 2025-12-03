@@ -8,4 +8,4 @@ count_particles_cellpose.ipynb
 count_particles_adaptive.py
 compare_methods.py
 count_nanoparticles.py
-*.tif
+training_data_cropped/
