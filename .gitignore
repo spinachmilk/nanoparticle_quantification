@@ -1,5 +1,4 @@
 SAM2_README.md
-README.md
 install_sam2.sh
 interactive_tuner.py
 count_particles_otsu.py
@@ -10,3 +9,14 @@ compare_methods.py
 count_nanoparticles.py
 *.pt
 *.tif
+*.pth
+MEDIAR_SETUP.md
+requirements_mediar.txt
+/208_singles
+/mediar_venv
+/stardist_venv
+/nnunet_venv
+/debug_venv
+/debug_output
+/checkpoints
+/mediar_pretrained_weights
